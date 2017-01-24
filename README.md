@@ -1,2 +1,3 @@
 # MyGame
-A new Programmer
+Welcome to my game world.
+Just a test file.
