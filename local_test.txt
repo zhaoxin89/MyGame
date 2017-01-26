@@ -1,4 +1,1 @@
-this is a local test.
-comment added.
-OK comment added again.
-and again.
+Let's start coding.
